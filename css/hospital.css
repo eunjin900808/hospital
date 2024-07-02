@@ -438,6 +438,23 @@ img{transition: all 0.3s;}
     transform: scale(1.2);
 }
 
+.h1_map{
+    text-align: center;
+    margin: 50px;
+    font-size: 30px;
+}
+
+.map{
+    display: block;
+    width: 1000px;
+    height: 400px;
+    margin: 20px auto;
+    margin-bottom: 80px;
+    border: 15px  dotted gold;
+}
+
+
+
 .footer{
     display: block;
     background-color: rgb(57, 0, 0);
